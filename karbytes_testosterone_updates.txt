@@ -1,6 +1,6 @@
 /**
  * file: karbytes_testosterone_updates.txt
- * type: C++ (source file)
+ * type: plain-text
  * date: 04_SEPTEMBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
