@@ -21,3 +21,5 @@ Then I tried using the only USB flash drive I have available to transfer that fo
 When I am done with that chore, I will take a photograph of the finalized M-DISC collection and case and stow one of the three discs in a metal safe in my room while I take the other two M-DISCS with me in that purple case in my backpack.
 
 * * *
+
+I noticed that some of the files which I uploaded to GitHub today are not allowing me to view their raw file counterparts due to a Varnish cache server error (see the screenshot image named varnish_cache_server_error_github_04_september_2023.png). I think that is a temporary server error and that I will be able to access the raw files in a few hours (and no longer than 48 hours total). 
