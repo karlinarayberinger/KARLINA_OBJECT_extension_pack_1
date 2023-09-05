@@ -23,3 +23,7 @@ When I am done with that chore, I will take a photograph of the finalized M-DISC
 * * *
 
 I noticed that some of the files which I uploaded to GitHub today are not allowing me to view their raw file counterparts due to a Varnish cache server error (see the screenshot image named varnish_cache_server_error_github_04_september_2023.png). I think that is a temporary server error and that I will be able to access the raw files in a few hours (and no longer than 48 hours total). 
+
+* * *
+
+I have gotten what I think is approximately 25% of the current M_DISC project done tonight. The erorr which I mentioned in the previous section of this note has come and gone. I also got an error message a few times while trying to download a GitHub repository's entire contents in the form of a zip file (by pressing the green "code" button on that GitHub repository's web page). The error is depicted by the image which I also uploaded to this GitHub repository named github_angry_unicorn_error_page_04_september_2023.png.
