@@ -1,0 +1,23 @@
+/**
+ * file: karbytes_05_september_2023.txt
+ * type: plain-text
+ * date: 05_SEPTEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
+
+On 04_SEPTEMBER_2023 the following items which I ordered from Amazon dot Com arrived at my doorstep today:
+
+(a) the pack of three (Hitachi-LG Data Storage) M-DISC 4.1 Gigabyte-capacity optical discs (which are said to be able to preserve read-only digital information which is burned onto it for up to one thousand Earth years)
+
+(b) the (Siveit) purple-colored hard plastic (polypropylene) zip-locking case for storing up to 48 compact discs such as M-DISKs.
+
+When I got to my dad's house to try burning the folder on the desktop of my laptop (which is a Hewlett-Packard laptop which originally came with Windows 10 as its only installed operating system before I installed Kubuntu on it using a bootable flash drive which I created using an online tutorial and free tools such as balenaEtcher) named RAW_GITHUB_FILES_MACRO_DIRECTORY (which contains the first 67 GitHub repository whole-repository downloads in the form of zip files which are enumerated in the web page named RAW_GITHUB_FILES_MACRO_DIRECTORY on the website named Karbytes For Life Blog dot WordPress dot Com), I was unable to get the Kubuntu operating system to recognize that the LG slim portable DVD writer which was plugged into it via USB port.
+
+I fetched one of my backup laptops from the storage bins in my room (and that one is a small Hew;ett-Packard laptop which seems to only work if I bootup its native Windows 10 operating system instead of the non-functional Kubuntu operating system I partitioned some of that laptop's hard drive for). I tested the DVD writer/player with that laptop and it seemed to work. 
+
+Then I tried using the only USB flash drive I have available to transfer that folder named RAW_GITHUB_FILES_MACRO_DIRECTORY on my primary laptop to my backup laptop but that USB flash drive appears to be read-only (and has been turned into a bootable Kubuntu flash drive). What that means is that I am simply going to have to create a new folder on my secondary laptop named RAW_GITHUB_FILES_MACRO_DIRECTORY and download each of the 67 zip files from GitHub (which I expect to take a longer time than it did for me to download those zip files the first time on the public Whole Foods Market Wi-Fi network in Dublin because the Wi-Fi network at my legal residence is slow and unreliable). 
+
+When I am done with that chore, I will take a photograph of the finalized M-DISC collection and case and stow one of the three discs in a metal safe in my room while I take the other two M-DISCS with me in that purple case in my backpack.
+
+* * *
