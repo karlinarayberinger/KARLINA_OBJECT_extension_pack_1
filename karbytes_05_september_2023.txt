@@ -27,3 +27,7 @@ I noticed that some of the files which I uploaded to GitHub today are not allowi
 * * *
 
 I have gotten what I think is approximately 25% of the current M_DISC project done tonight. The erorr which I mentioned in the previous section of this note has come and gone. I also got an error message a few times while trying to download a GitHub repository's entire contents in the form of a zip file (by pressing the green "code" button on that GitHub repository's web page). The error is depicted by the image which I also uploaded to this GitHub repository named github_angry_unicorn_error_page_04_september_2023.png.
+
+* * *
+
+The Wi-Fi network seemed to be slowing down to the extent that I predicted that it would take several days to do what I thought would have taken me less than one hour: burn those M_DISCs with the first 66 GitHub repositories. So I bicycled over to my mom's house which is located on the west side of Castro Valley (because the Wi-Fi at my mom's house seems to be much faster and more reliable than the Wi-Fi at my dad's house). Since then I was able to make progress on the GitHub repository zip file downloads at my mom's house, but several times I got booted off the Wi-Fi and, for a few minutes, that Wi-Fi network appeared to be offline. It's approximately 4:44AM right now. I expect to be able to take a picture of the burned M_DISC collection using sunlight in approximately two hours.
