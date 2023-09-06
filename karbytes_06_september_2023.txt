@@ -60,7 +60,6 @@ video_3.address := "https://youtu.be/fDek6cYijxI?si=EtaXBEPcxHTWKl0b".
 
 * * *
 
-
 video_4.title := "Sean Carroll: Extracting the universe from the wave function".
 
 video_4.channel := "The Quantum Information Structure of Spacetime".
