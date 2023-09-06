@@ -33,3 +33,11 @@ video_0.title := "How big is a visible photon?".
 video_0.channel := "Huygens Optics".
 
 video_0.address := "https://youtu.be/SDtAh9IwG-I?si=e86xHDd0tMXNUbMC".
+
+* * *
+
+video_1.title := "The origin of light, scattering, and polarization | Barber pole, part 2 ".
+
+video_1.channel := "3Blue1Brown".
+
+video_1.address := "https://youtu.be/aXRTczANuIs?si=tTdoFTDxY9EeV-bB".
