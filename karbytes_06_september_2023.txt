@@ -65,3 +65,11 @@ video_4.title := "Sean Carroll: Extracting the universe from the wave function".
 video_4.channel := "The Quantum Information Structure of Spacetime".
 
 video_4.address := "https://www.youtube.com/live/HOssfva2IBo?si=XEXZWUnFEEWCB0x3".
+
+* * *
+
+video_5.title := "Sean Carroll: The Paradoxes of Time Travel".
+
+video_5.channel := "Enlightainment".
+
+video_5.address := "https://youtu.be/qB_V1l8iLlc?si=CL0JZaxOD5EFNYa6".
