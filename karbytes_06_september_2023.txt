@@ -73,3 +73,12 @@ video_5.title := "Sean Carroll: The Paradoxes of Time Travel".
 video_5.channel := "Enlightainment".
 
 video_5.address := "https://youtu.be/qB_V1l8iLlc?si=CL0JZaxOD5EFNYa6".
+
+* * *
+
+
+video_6.title := "Slavoj Žižek & Sean Carroll: Quantum Physics, the Multiverse, and Time Travel | RP #118".
+
+video_6.channel := "Robinson Erhardt".
+
+video_6.address := "https://youtu.be/735mYcl3Lrg?si=Oent3TFMNQpIxji3".
