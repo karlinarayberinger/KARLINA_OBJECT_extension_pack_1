@@ -25,3 +25,11 @@ https://youtu.be/735mYcl3Lrg?si=Oent3TFMNQpIxji3
 * * *
 
 The video titles, YouTube channel names, and publishing dates for each video referenced in the section above is listed below:
+
+* * *
+
+video_0.title := "How big is a visible photon?".
+
+video_0.channel := "Huygens Optics".
+
+video_0.address := "https://youtu.be/SDtAh9IwG-I?si=e86xHDd0tMXNUbMC".
