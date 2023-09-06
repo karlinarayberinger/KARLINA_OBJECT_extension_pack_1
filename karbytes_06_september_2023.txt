@@ -57,3 +57,12 @@ video_3.title := "Chaos: The Science of the Butterfly Effect".
 video_3.channel := "Veritasium".
 
 video_3.address := "https://youtu.be/fDek6cYijxI?si=EtaXBEPcxHTWKl0b".
+
+* * *
+
+
+video_4.title := "Sean Carroll: Extracting the universe from the wave function".
+
+video_4.channel := "The Quantum Information Structure of Spacetime".
+
+video_4.address := "https://www.youtube.com/live/HOssfva2IBo?si=XEXZWUnFEEWCB0x3".
