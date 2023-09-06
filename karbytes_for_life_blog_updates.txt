@@ -1,7 +1,7 @@
 /** 
   * file: karbytes_for_life_blog_updates.txt
   * type: plain-text 
-  * date: 05_SEPTEMBER_2023 
+  * date: 06_SEPTEMBER_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN 
   */
@@ -33,3 +33,5 @@ karbytes created (and apparently finalized) the web page named raw_github_files_
 karbytes modified the link color which links to the relevant web page of the website named Karbytes For Life Blog dot WordPress dot Com in the web pages named raw_github_files_directory_PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022 and raw_github_files_directory_PRIMARY_WEBSITE_COPY_23_OCTOBER_2022 from "orange" (i.e. "#ff9000") to "green" (i.e. "#00ff00") at approximately 2:17PM Pacific Standard Time on 05_SEPTEMBER_2023. 
 
 karbytes updated the web page named raw_github_files_directory_KARLINA_OBJECT_extension_pack_1 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 10:10PM Pacific Standard Time on 05_SEPTEMBER_2023. 
+
+karbytes updated the web page named raw_github_files_directory_KARLINA_OBJECT_extension_pack_1 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 11:55PM Pacific Standard Time on 05_SEPTEMBER_2023. 
