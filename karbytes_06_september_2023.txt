@@ -1,3 +1,11 @@
+/**
+ * file: karbytes_06_september_2023.txt
+ * type: plain-text
+ * date: 06_SEPTEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
+
 // 01_SEPTEMBER_2023
 
 https://youtu.be/SDtAh9IwG-I?si=e86xHDd0tMXNUbMC
