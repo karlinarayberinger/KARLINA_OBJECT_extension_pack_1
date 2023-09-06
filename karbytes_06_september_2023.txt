@@ -49,3 +49,11 @@ video_2.title := "The Most Misunderstood Concept in Physics".
 video_2.channel := "Veritasium".
 
 video_2.address := "https://youtu.be/DxL2HoqLbyA?si=8fb06TAU-VfoFMOK".
+
+* * *
+
+video_3.title := "Chaos: The Science of the Butterfly Effect".
+
+video_3.channel := "Veritasium".
+
+video_3.address := "https://youtu.be/fDek6cYijxI?si=EtaXBEPcxHTWKl0b".
