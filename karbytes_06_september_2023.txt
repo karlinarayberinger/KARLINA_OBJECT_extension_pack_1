@@ -1,7 +1,7 @@
 /**
  * file: karbytes_06_september_2023.txt
  * type: plain-text
- * date: 06_SEPTEMBER_2023
+ * date: 07_SEPTEMBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -34,6 +34,8 @@ video_0.channel := "Huygens Optics".
 
 video_0.address := "https://youtu.be/SDtAh9IwG-I?si=e86xHDd0tMXNUbMC".
 
+video_0.date := "05_JULY_2021".
+
 * * *
 
 video_1.title := "The origin of light, scattering, and polarization | Barber pole, part 2".
@@ -41,6 +43,8 @@ video_1.title := "The origin of light, scattering, and polarization | Barber pol
 video_1.channel := "3Blue1Brown".
 
 video_1.address := "https://youtu.be/aXRTczANuIs?si=tTdoFTDxY9EeV-bB".
+
+video_1.date := "01_SEPTEMBER_2023".
 
 * * *
 
@@ -50,6 +54,8 @@ video_2.channel := "Veritasium".
 
 video_2.address := "https://youtu.be/DxL2HoqLbyA?si=8fb06TAU-VfoFMOK".
 
+video_2.date := "01_JULY_2023".
+
 * * *
 
 video_3.title := "Chaos: The Science of the Butterfly Effect".
@@ -57,6 +63,8 @@ video_3.title := "Chaos: The Science of the Butterfly Effect".
 video_3.channel := "Veritasium".
 
 video_3.address := "https://youtu.be/fDek6cYijxI?si=EtaXBEPcxHTWKl0b".
+
+video_3.date := "06_DECEMBER_2019".
 
 * * *
 
@@ -66,6 +74,8 @@ video_4.channel := "The Quantum Information Structure of Spacetime".
 
 video_4.address := "https://www.youtube.com/live/HOssfva2IBo?si=XEXZWUnFEEWCB0x3".
 
+video_4.date := "06_APRIL_2023".
+
 * * *
 
 video_5.title := "Sean Carroll: The Paradoxes of Time Travel".
@@ -73,6 +83,8 @@ video_5.title := "Sean Carroll: The Paradoxes of Time Travel".
 video_5.channel := "Enlightainment".
 
 video_5.address := "https://youtu.be/qB_V1l8iLlc?si=CL0JZaxOD5EFNYa6".
+
+video_5.date := "03_APRIL_2018".
 
 * * *
 
@@ -82,3 +94,5 @@ video_6.title := "Slavoj Žižek & Sean Carroll: Quantum Physics, the Multiverse
 video_6.channel := "Robinson Erhardt".
 
 video_6.address := "https://youtu.be/735mYcl3Lrg?si=Oent3TFMNQpIxji3".
+
+video_6.date := "23_JULY_2023".
