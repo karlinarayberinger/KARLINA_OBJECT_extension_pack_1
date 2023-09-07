@@ -9,3 +9,9 @@
 Within the past 24 hours, karbytes changed the name of a public karbytes-created GitHub repository from RAW_GITHUB_FILES_MACRO_DIRECTORY to RAW_GITHUB_FILES_MACRO_DIRECTORY_first_67.
 
 Within the past 24 hours, karbytes archived (i.e. made "read-only") the public karbytes-created GitHub repository named RAW_GITHUB_FILES_MACRO_DIRECTORY_first_67.
+
+* * *
+
+I did something I usually forbid: updated a journal entry whose file name features exactly one calendar day date. 
+
+What I did specifically was change the date value in the pseudocode comment key-value pair from 06_SEPTEMBER_2023 to 07_SEPTEMBER_2023 and add dates to the videos in the list on that web page.
