@@ -14,4 +14,6 @@ Within the past 24 hours, karbytes archived (i.e. made "read-only") the public k
 
 I did something I usually forbid: updated a journal entry whose file name features exactly one calendar day date. 
 
-What I did specifically was change the date value in the pseudocode comment key-value pair from 06_SEPTEMBER_2023 to 07_SEPTEMBER_2023 and add dates to the videos in the list on that web page.
+What I did specifically was change the date value in the pseudocode comment key-value pair from 06_SEPTEMBER_2023 to 07_SEPTEMBER_2023 and add dates to the videos in the list in that file named karbytes_07_september_2023.txt at the following uniform resource locator:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_1/main/karbytes_06_september_2023.txt
