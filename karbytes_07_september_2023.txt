@@ -26,7 +26,7 @@ Those files were downloaded onto karbytes' secondary laptop (which runs Windows 
 
 * * *
 
-For the purpose of keeping the three M_DISC DVD discs which I am in the process of burning each with the folder named RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023 from getting scratched or exposed to corrosive chemicals and heat, I decided to cut the compact disc sleeves out of the hard plastic compact disc case I ordered so that I can stack the M_DISC DVD discs inside of that zipper locking case while each of those discs is encased inside of its own plastic and cardboard "jewel case". I am putting paper with "permanent" black ink writing on them which describes the contents of the disc which karbytes intended to leave in that "jewel case" (at least until a better storage mechanism for the disc collection is deployed).
+For the purpose of keeping the three M_DISC DVD discs which I am in the process of burning each with the folder named RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023 from getting scratched or exposed to corrosive chemicals and heat, I decided to (use scissors to) cut the compact disc sleeves out of the hard plastic compact disc case I ordered so that I can stack the M_DISC DVD discs inside of that zipper locking case while each of those discs is encased inside of its own plastic and cardboard "jewel case". I am putting paper with "permanent" black ink writing on them which describes the contents of the disc which karbytes intended to leave in that "jewel case" (at least until a better storage mechanism for the disc collection is deployed).
 
 (Note that the Windows disc burner application forced me to make the disc name short. Hence I named each of those three discs karbytes_2023).
 
@@ -35,3 +35,7 @@ Each disc has been taking approximately 30 minutes to burn (and the total data s
 In a nutshell, the GitHub repository which best encapsulates the theme of data which has been burned to those discs is located at the following uniform resource locator:
 
 https://github.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_67
+
+* * *
+
+After karbytes burned the three discs and tested to verify that the files enscribed onto those discs was readable to the machine which burned those discs (and karbytes did discover that each of those discs was readable as intended by karbytes by that machine (with sufficient confidence less than absolute certainty)), karbytes took two pictures of those discs displayed inside of their jewel cases with the hand-written note paper pieces sticking out of the inside pockets of the jewel cases, digitally modified those images for aesthetic enhancement according to karbytes, and uploaded those images as Instagram posts on karbytes' public Instagram account.
