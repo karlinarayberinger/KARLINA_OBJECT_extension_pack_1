@@ -45,3 +45,7 @@ Those images can be viewed at the following uniform resource locators:
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_1/main/instagram_karbytes_07_september_2023_part_0.jpg
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_1/main/instagram_karbytes_07_september_2023_part_1.jpg
+
+* * *
+
+karbytes was able to copy the folder containing 76 zip files (of karbytes-created GitHub repositories) from M_DISC in LG DVD "plug-and-play" DVD player on karbytes' primary machine (which has a Kubuntu operating system). karbytes was not able to write the M_DISCs using the primary machine, but karbytes was able to at least read the "read only" M_DISCs on the primary machine. (A smaller secondary machine which has a Windows 10 operating system was used to write those M_DISCs) to the Desktop of the primary machine. That Desktop folder contains a total of 3.9 Gigabytes.
