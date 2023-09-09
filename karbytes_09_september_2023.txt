@@ -15,3 +15,7 @@ That web page whose URL is the previous line of text is not obviously discover-a
 Note that web pages can looked up using the built-in WordPress dot Com search feature of the website named Karbytes For Life Blog dot WordPress dot Com at the following "nonexistent web page":
 
 https://karbytesforlifeblog.wordpress.com/666
+
+The following URL features a screenshot of the web page whose URL is the previous line of text:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_1/main/page_not_found_search_form_karbytes_for_life_blog_dot_wordpress_dot_com_09_september_2023.png
