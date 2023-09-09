@@ -28,31 +28,31 @@ files.data_size := 3900. // quantity of megabytes
 
 files[0] := INSTAGRAM_SCREENSHOTS_2022_KARBYTES_04_september_2023.zip.
 
-files[0].data_size := 20.4 // quantity of megabytes
+files[0].data_size := 20.4. // quantity of megabytes
 
 files[1] := INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW_04_september_2023.zip.
 
-files[1].data_size := 211.7 // quantity of megabytes
+files[1].data_size := 211.7. // quantity of megabytes
 
 files[2] := karbytes_23AndMe_Ancestry_Data_07_september_2023.zip.
 
-files[2].data_size := 6.5 // quantity of megabytes
+files[2].data_size := 6.5. // quantity of megabytes
 
 files[3] := karbytes_beginner_bytes_computer_science_2010_to_2015_04_september_2023.zip.
 
-files[3].data_size := 331.5 // quantity of megabytes
+files[3].data_size := 331.5. // quantity of megabytes
 
 files[4] := KARBYTES_BRAND_IMAGES_2021_04_september_2023.zip.
 
-files[4].data_size := 9.8 // quantity of megabytes
+files[4].data_size := 9.8. // quantity of megabytes
 
 files[5] := KARBYTES_FOR_LIFE_BLOG_07_september_2023.zip.
 
-files[5].data_size := 586.3 // quantity of megabytes
+files[5].data_size := 586.3. // quantity of megabytes
 
 files[6] := KARBYTES_JOURNAL_2022_PART_0_05_september_2023.zip.
 
-files[6].data_size := 586.3 // 0 megabytes (empty file) --> WARNING: files[6] was not properly downloaded from GitHub or not properly burnt to the M_DISC which this files list enumerates the contents of.
+files[6].data_size := 31. // 0 megabytes (empty file) --> WARNING: files[6] was not properly downloaded from GitHub or not properly burnt to the M_DISC which this files list enumerates the contents of.
 
 files[7] := KARBYTES_JOURNAL_2022_PART_1_05_september_2023.zip.
 
