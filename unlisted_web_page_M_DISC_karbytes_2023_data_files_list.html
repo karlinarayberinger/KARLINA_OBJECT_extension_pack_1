@@ -7,7 +7,7 @@
 /**
  * file: <a style="background: #000000;color: #ff9000" href="https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_1/main/M_DISC_karbytes_2023_data_files_list.txt" target="_blank" rel="noopener">M_DISC_karbytes_2023_data_files_list.txt</a>
  * type: plain-text
- * date: 08_SEPTEMBER_2023
+ * date: 09_SEPTEMBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -19,31 +19,321 @@ A corresponding web page on Karbytes For Life Blog dot WordPress dot Com located
 
 <a style="background: #000000;color: #ff9000" href="https://karbytesforlifeblog.wordpress.com/M_DISC_karbytes_2023_data_files_list" target="_blank" rel="noopener">https://karbytesforlifeblog.wordpress.com/M_DISC_karbytes_2023_data_files_list</a>
 
+(Also note that, unless specified with a comment (denoted to the right of the karbytes pseudocode command by "//") , each file which was copied to the <a style="background: #ff9000;color: #000000" href="https://en.wikipedia.org/wiki/M-DISC" target="_blank" rel="noopener">M_DISC</a> named karbytes_2023 was copied from an archived (i.e. read-only) karbytes-created GitHub repository on 07_SEPTEMBER_2023).
+
 ---
 */
 
-M_DISC_DVD_optical_disc_name := karbytes_2023.
+M_DISC_DVD_optical_disc.name := karbytes_2023. // 1 string of 13 plain-text characters
 
-M_DISC_DVD_optical_disc_data_contents := RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.
+M_DISC_DVD_optical_disc.data := RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023. // 1 folder containing 76 files
 
-RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_0 := INSTAGRAM_SCREENSHOTS_2022_KARBYTES_04_september_2023.zip.
+files := RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.
 
-RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_1 := INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW_04_september_2023.zip.
+files.array_length := 76. // quantity of files
 
-RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_2 := karbytes_23AndMe_Ancestry_Data_07_september_2023.zip.
+files.data_size := 3900. // quantity of megabytes
 
-RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_3 := karbytes_beginner_bytes_computer_science_2010_to_2015_04_september_2023.zip.
+files[0] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/INSTAGRAM_SCREENSHOTS_2022_KARBYTES" target="_blank" rel="noopener">INSTAGRAM_SCREENSHOTS_2022_KARBYTES_04_september_2023.zip</a>.
 
-RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_4 := KARBYTES_BRAND_IMAGES_2021_04_september_2023.zip.
+files[0].data_size := 20.4. // quantity of megabytes
 
-RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_5 := KARBYTES_FOR_LIFE_BLOG_07_september_2023.zip.
+files[1] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW" target="_blank" rel="noopener">INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW_04_september_2023.zip</a>.
 
-RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_6 := KARBYTES_JOURNAL_2022_PART_0_05_september_2023.zip.
+files[1].data_size := 211.7. // quantity of megabytes
 
-RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_7 := KARBYTES_JOURNAL_2022_PART_1_05_september_2023.zip.
+files[2] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/karbytes_23AndMe_Ancestry_Data" target="_blank" rel="noopener">karbytes_23AndMe_Ancestry_Data_07_september_2023.zip</a>.
 
-(in progress, more lines are being added to this file)
+files[2].data_size := 6.5. // quantity of megabytes
+
+files[3] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/karbytes_beginner_bytes_computer_science_2010_to_2015" target="_blank" rel="noopener">karbytes_beginner_bytes_computer_science_2010_to_2015_04_september_2023.zip</a>.
+
+files[3].data_size := 331.5. // quantity of megabytes
+
+files[4] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_BRAND_IMAGES_2021" target="_blank" rel="noopener">KARBYTES_BRAND_IMAGES_2021_04_september_2023.zip</a>.
+
+files[4].data_size := 9.8. // quantity of megabytes
+
+files[5] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_FOR_LIFE_BLOG" target="_blank" rel="noopener">KARBYTES_FOR_LIFE_BLOG_07_september_2023.zip</a>. // repository is still being updated after being copied to M_DISC karbytes_2023
+
+files[5].data_size := 586.3. // quantity of megabytes
+
+files[6] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_0" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_0_05_september_2023.zip</a>.
+
+files[6].data_size := 31. // 0 megabytes (empty file) --&gt; WARNING: files[6] was not properly downloaded from GitHub or not properly burnt to the M_DISC which this files list enumerates the contents of.
+
+files[7] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_1" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_1_05_september_2023.zip</a>.
+
+files[7].data_size := 18.8. // quantity of megabytes
+
+files[8] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_2" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_2_05_september_2023.zip</a>.
+
+files[8].data_size := 7.2. // quantity of megabytes
+
+files[9] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_3" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_3_05_september_2023.zip</a>.
+
+files[9].data_size := 17.9. // quantity of megabytes
+
+files[10] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_4" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_4_05_september_2023.zip</a>.
+
+files[10].data_size := 55.5. // quantity of megabytes
+
+files[11] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_5" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_5_05_september_2023.zip</a>.
+
+files[11].data_size := 23.9. // quantity of megabytes
+
+files[12] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_6" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_6_05_september_2023.zip</a>.
+
+files[12].data_size := 56.2. // quantity of megabytes
+
+files[13] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_7" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_7_05_september_2023.zip</a>.
+
+files[13].data_size := 106.5. // quantity of megabytes
+
+files[14] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_8" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_8_05_september_2023.zip</a>.
+
+files[14].data_size := 69.3. // quantity of megabytes
+
+files[15] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_9" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_9_05_september_2023.zip</a>.
+
+files[15].data_size := 56.0. // quantity of megabytes
+
+files[16] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_10" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_10_05_september_2023.zip</a>.
+
+files[16].data_size := 12.9. // quantity of megabytes
+
+files[17] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_11" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_11_05_september_2023.zip</a>.
+
+files[17].data_size := 48.5. // quantity of megabytes
+
+files[18] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_12" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_12_05_september_2023.zip</a>.
+
+files[18].data_size := 37.4. // quantity of megabytes
+
+files[19] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_13" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_13_05_september_2023.zip</a>.
+
+files[19].data_size := 33.3. // quantity of megabytes
+
+files[20] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_14" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_14_05_september_2023.zip</a>.
+
+files[20].data_size := 35.8. // quantity of megabytes
+
+files[21] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_15" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_15_05_september_2023.zip</a>.
+
+files[21].data_size := 62.0. // quantity of megabytes
+
+files[22] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_16_05_september_2023.zip</a>.
+
+files[22].data_size := 127.5. // quantity of megabytes
+
+files[23] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16B" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_16B_07_september_2023.zip</a>.
+
+files[23].data_size := 153.2. // quantity of megabytes
+
+files[24] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16C" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_16C_07_september_2023.zip</a>.
+
+files[24].data_size := 198.6. // quantity of megabytes
+
+files[25] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2022_PART_16D" target="_blank" rel="noopener">KARBYTES_JOURNAL_2022_PART_16D_07_september_2023.zip</a>.
+
+files[25].data_size := 215.5. // quantity of megabytes
+
+files[26] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_0" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_0_07_september_2023.zip</a>.
+
+files[26].data_size := 41.2. // quantity of megabytes
+
+files[27] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_1" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_1_07_september_2023.zip</a>.
+
+files[27].data_size := 82.8. // quantity of megabytes
+
+files[28] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_2" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_2_07_september_2023.zip</a>.
+
+files[28].data_size := 51.7. // quantity of megabytes
+
+files[29] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_3" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_3_07_september_2023.zip</a>.
+
+files[29].data_size := 56.5. // quantity of megabytes
+
+files[30] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_4" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_4_07_september_2023.zip</a>.
+
+files[30].data_size := 12.8. // quantity of megabytes
+
+files[31] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_5" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_5_07_september_2023.zip</a>.
+
+files[31].data_size := 24.6. // quantity of megabytes
+
+files[32] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_6" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_6_07_september_2023.zip</a>.
+
+files[32].data_size := 28.4. // quantity of megabytes
+
+files[33] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_7" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_7_07_september_2023.zip</a>.
+
+files[33].data_size := 16.8. // quantity of megabytes
+
+files[34] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_8" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_8_07_september_2023.zip</a>.
+
+files[34].data_size := 5.7. // quantity of megabytes
+
+files[35] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_9" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_9_05_september_2023.zip</a>.
+
+files[36].data_size := 67.1. // quantity of megabytes
+
+files[37] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_10" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_10_05_september_2023.zip</a>.
+
+files[37].data_size := 14.2. // quantity of megabytes
+
+files[38] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_11" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_11_05_september_2023.zip</a>.
+
+files[38].data_size := 25.0. // quantity of megabytes
+
+files[39] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_12" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_12_05_september_2023.zip</a>.
+
+files[39].data_size := 89.0. // quantity of megabytes
+
+files[40] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_13" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_13_05_september_2023.zip</a>.
+
+files[40].data_size := 122.9. // quantity of megabytes
+
+files[41] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_14" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_14_05_september_2023.zip</a>.
+
+files[41].data_size := 7.6. // quantity of megabytes
+
+files[42] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_15" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_15_05_september_2023.zip</a>.
+
+files[42].data_size := 3.7. // quantity of megabytes
+
+files[43] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_16" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_16_07_september_2023.zip</a>.
+
+files[43].data_size := 22.6. // quantity of megabytes
+
+files[44] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_17" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_17_07_september_2023.zip</a>.
+
+files[44].data_size := 6.1. // quantity of megabytes
+
+files[45] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_18" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_18_07_september_2023.zip</a>.
+
+files[45].data_size := 12.0. // quantity of megabytes
+
+files[46] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_19" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_19_07_september_2023.zip</a>.
+
+files[46].data_size := 18.8. // quantity of megabytes
+
+files[47] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_20" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_20_07_september_2023.zip</a>.
+
+files[47].data_size := 17.0. // quantity of megabytes
+
+files[48] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_21" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_21_07_september_2023.zip</a>.
+
+files[48].data_size := 4.5. // quantity of megabytes
+
+files[49] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_22" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_22_07_september_2023.zip</a>.
+
+files[49].data_size := 3.3. // quantity of megabytes
+
+files[50] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_23" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_23_07_september_2023.zip</a>.
+
+files[50].data_size := 93.3. // quantity of megabytes
+
+files[51] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_24" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_24_07_september_2023.zip</a>.
+
+files[51].data_size := 54.7. // quantity of megabytes
+
+files[52] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_25" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_25_07_september_2023.zip</a>.
+
+files[52].data_size := 155.5. // quantity of megabytes
+
+files[53] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_26" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_26_07_september_2023.zip</a>.
+
+files[53].data_size := 81.7. // quantity of megabytes
+
+files[54] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_27" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_27_07_september_2023.zip</a>.
+
+files[54].data_size := 55.6. // quantity of megabytes
+
+files[55] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_28" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_28_07_september_2023.zip</a>.
+
+files[55].data_size := 76.6. // quantity of megabytes
+
+files[56] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_29" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_29_07_september_2023.zip</a>.
+
+files[56].data_size := 79.8. // quantity of megabytes
+
+files[57] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_30" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_30_07_september_2023.zip</a>.
+
+files[57].data_size := 65.8. // quantity of megabytes
+
+files[58] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_31" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_31_07_september_2023.zip</a>.
+
+files[58].data_size := 26.9. // quantity of megabytes
+
+files[59] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARBYTES_JOURNAL_2023_PART_32" target="_blank" rel="noopener">KARBYTES_JOURNAL_2023_PART_32_07_september_2023.zip</a>.
+
+files[59].data_size := 179.7. // quantity of megabytes
+
+files[60] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARLINA_OBJECT_12_JUNE_2023" target="_blank" rel="noopener">KARLINA_OBJECT_12_JUNE_2023_07_september_2023.zip</a>.
+
+files[60].data_size := 19.4 // quantity of megabytes
+
+files[61] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_0_07_september_2023.zip</a>.
+
+files[61].data_size := 90.1 // quantity of megabytes
+
+files[62] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_1" target="_blank" rel="noopener">KARLINA_OBJECT_extension_pack_1_07_september_2023.zip</a>. // repository is still being updated after being copied to M_DISC karbytes_2023
+
+files[62].data_size := 3.8 // quantity of megabytes
+
+files[63] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack" target="_blank" rel="noopener">KARLINA_OBJECT_summer_2023_starter_pack_04_september_2023.zip</a>.
+
+files[63].data_size := 27.5 // quantity of megabytes
+
+files[64] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/korrupt_el_mundo_2009_to_2010_karl_beringer" target="_blank" rel="noopener">korrupt_el_mundo_2009_to_2010_karl_beringer_04_september_2023.zip</a>.
+
+files[64].data_size := 31.2 // quantity of megabytes
+
+files[65] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/merced_manure_sound_files_karlina_beringer_2008_to_2009" target="_blank" rel="noopener">merced_manure_sound_files_karlina_beringer_2008_to_2009_04_september_2023.zip</a>.
+
+files[65].data_size := 33.1 // quantity of megabytes
+
+files[66] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/MINDS_2020_SCREENSHOTS" target="_blank" rel="noopener">MINDS_2020_SCREENSHOTS_04_september_2023.zip</a>.
+
+files[66].data_size := 27.6 // quantity of megabytes
+
+files[67] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0" target="_blank" rel="noopener">MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0_04_september_2023.zip</a>.
+
+files[67].data_size := 1.9 // quantity of megabytes
+
+files[68] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1" target="_blank" rel="noopener">MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1_04_september_2023.zip</a>.
+
+files[68].data_size := 2.3 // quantity of megabytes
+
+files[69] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2" target="_blank" rel="noopener">MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2_04_september_2023.zip</a>.
+
+files[69].data_size := 1.5 // quantity of megabytes
+
+files[70] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3" target="_blank" rel="noopener">MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3_04_september_2023.zip</a>.
+
+files[70].data_size := 4.3 // quantity of megabytes
+
+files[71] := <strong>miscellaneous_data_07_september_2023.zip</strong>. // private repository
+
+files[71].data_size := 48.1 // quantity of megabytes
+
+files[72] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022" target="_blank" rel="noopener">PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022_07_september_2023.zip</a>.
+
+files[72].data_size := 468.1 // quantity of megabytes
+
+files[73] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022" target="_blank" rel="noopener">PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022_07_september_2023.zip</a>.
+
+files[73].data_size := 15.3 // quantity of megabytes
+
+files[74] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_23_OCTOBER_2022" target="_blank" rel="noopener">PRIMARY_WEBSITE_COPY_23_OCTOBER_2022_07_september_2023.zip</a>.
+
+files[74].data_size := 14.3 // quantity of megabytes
+
+files[75] := <a style="background: #00ff00;color: #000000" href="https://github.com/karlinarayberinger/RAW_GITHUB_FILES_MACRO_DIRECTORY_first_67" target="_blank" rel="noopener">RAW_GITHUB_FILES_MACRO_DIRECTORY_first_67_07_september_2023.zip</a>.
+
+files[75].data_size := 219.1 // quantity of megabytes
 </pre>
 <hr />
-<p>This web page was last updated on 08_SEPTEMBER_2023. The content displayed on this web page is licensed as <a style="background: #000000;color: #ff9000" href="https://karlinaobject.wordpress.com/public_domain/" target="_blank" rel="noopener">PUBLIC_DOMAIN</a> intellectual property.</p>
+<p>This web page was last updated on 09_SEPTEMBER_2023. The content displayed on this web page is licensed as <a style="background: #000000;color: #ff9000" href="https://karlinaobject.wordpress.com/public_domain/" target="_blank" rel="noopener">PUBLIC_DOMAIN</a> intellectual property.</p>
 <hr />
