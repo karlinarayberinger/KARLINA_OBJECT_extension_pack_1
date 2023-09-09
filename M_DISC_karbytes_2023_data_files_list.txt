@@ -22,11 +22,13 @@ M_DISC_DVD_optical_disc_data.data := RAW_GITHUB_FILES_MACRO_DIRECTORY_07_septemb
 
 files := RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.
 
-files.length := 76. // quantity of files
+files.array_length := 76. // quantity of files
 
-files.data_size := 3.9. // quantity of gigabytes
+files.data_size := 3900. // quantity of megabytes
 
 files[0] := INSTAGRAM_SCREENSHOTS_2022_KARBYTES_04_september_2023.zip.
+
+files[0].data_size := 20.4 // quantity of megabytes
 
 files[1] := INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW_04_september_2023.zip.
 
