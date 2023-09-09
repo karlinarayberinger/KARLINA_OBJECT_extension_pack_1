@@ -13,6 +13,8 @@ A corresponding web page on Karbytes For Life Blog dot WordPress dot Com located
 
 https://karbytesforlifeblog.wordpress.com/M_DISC_karbytes_2023_data_files_list
 
+(Also note that, unless specified with a comment (denoted to the right of the karbytes pseudocode command by "//") , each file which was copied to the M_DISC named karbytes_2023 was copied from an archived (i.e. read-only) karbytes-created GitHub repository on 07_SEPTEMBER_2023).
+
 ---
 */
 
@@ -46,7 +48,7 @@ files[4] := KARBYTES_BRAND_IMAGES_2021_04_september_2023.zip.
 
 files[4].data_size := 9.8. // quantity of megabytes
 
-files[5] := KARBYTES_FOR_LIFE_BLOG_07_september_2023.zip.
+files[5] := KARBYTES_FOR_LIFE_BLOG_07_september_2023.zip. // repository is still being updated after being copied to M_DISC karbytes_2023
 
 files[5].data_size := 586.3. // quantity of megabytes
 
@@ -166,11 +168,7 @@ files[34] := KARBYTES_JOURNAL_2023_PART_8_07_september_2023.zip.
 
 files[34].data_size := 5.7. // quantity of megabytes
 
-files[35] := KARBYTES_JOURNAL_2023_PART_8_07_september_2023.zip.
-
-files[35].data_size := 5.7. // quantity of megabytes
-
-files[36] := KARBYTES_JOURNAL_2023_PART_9_05_september_2023.zip.
+files[35] := KARBYTES_JOURNAL_2023_PART_9_05_september_2023.zip.
 
 files[36].data_size := 67.1. // quantity of megabytes
 
@@ -274,7 +272,7 @@ files[61] := KARLINA_OBJECT_extension_pack_0_07_september_2023.zip.
 
 files[61].data_size := 90.1 // quantity of megabytes
 
-files[62] := KARLINA_OBJECT_extension_pack_1_07_september_2023.zip.
+files[62] := KARLINA_OBJECT_extension_pack_1_07_september_2023.zip. // repository is still being updated after being copied to M_DISC karbytes_2023
 
 files[62].data_size := 3.8 // quantity of megabytes
 
@@ -310,7 +308,7 @@ files[70] := MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3_04_september_2023.zip.
 
 files[70].data_size := 4.3 // quantity of megabytes
 
-files[71] := miscellaneous_data_07_september_2023.zip.
+files[71] := miscellaneous_data_07_september_2023.zip. // private repository
 
 files[71].data_size := 48.1 // quantity of megabytes
 
@@ -329,6 +327,3 @@ files[74].data_size := 14.3 // quantity of megabytes
 files[75] := RAW_GITHUB_FILES_MACRO_DIRECTORY_first_67_07_september_2023.zip.
 
 files[75].data_size := 219.1 // quantity of megabytes
-
-
-
