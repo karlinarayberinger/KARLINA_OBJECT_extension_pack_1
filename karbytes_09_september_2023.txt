@@ -1,0 +1,17 @@
+/**
+ * file: karbytes_09_september_2023.txt
+ * type: plain-text
+ * date: 09_SEPTEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
+
+Today karbytes published a new web page which is assumed by karbytes to be closed off to future changes at the following Uniform Resource Locator (URL):
+
+https://karbytesforlifeblog.wordpress.com/m_disc_karbytes_2023_data_files_list/
+
+That web page whose URL is the previous line of text is not obviously discover-able just by visiting the home page of the website named Karbytes For Life Blog dot WordPress dot Com because its contents are not listed visibly on any web pages which are opened as a result of a website visitor first visiting the home page of that website and then clicking on hyperlink text links to arrive at a specific web hosted document.
+
+Note that web pages can looked up using the built-in WordPress dot Com search feature of the website named Karbytes For Life Blog dot WordPress dot Com at the following "nonexistent web page":
+
+https://karbytesforlifeblog.wordpress.com/666
