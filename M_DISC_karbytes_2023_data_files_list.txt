@@ -18,7 +18,7 @@ https://karbytesforlifeblog.wordpress.com/M_DISC_karbytes_2023_data_files_list
 
 M_DISC_DVD_optical_disc.name := karbytes_2023. // 1 string of 13 plain-text characters
 
-M_DISC_DVD_optical_disc_data.data := RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023. // 1 folder containing 76 files
+M_DISC_DVD_optical_disc.data := RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023. // 1 folder containing 76 files
 
 files := RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.
 
@@ -141,3 +141,194 @@ files[27].data_size := 82.8. // quantity of megabytes
 files[28] := KARBYTES_JOURNAL_2023_PART_2_07_september_2023.zip.
 
 files[28].data_size := 51.7. // quantity of megabytes
+
+files[29] := KARBYTES_JOURNAL_2023_PART_3_07_september_2023.zip.
+
+files[29].data_size := 56.5. // quantity of megabytes
+
+files[30] := KARBYTES_JOURNAL_2023_PART_4_07_september_2023.zip.
+
+files[30].data_size := 12.8. // quantity of megabytes
+
+files[31] := KARBYTES_JOURNAL_2023_PART_5_07_september_2023.zip.
+
+files[31].data_size := 24.6. // quantity of megabytes
+
+files[32] := KARBYTES_JOURNAL_2023_PART_6_07_september_2023.zip.
+
+files[32].data_size := 28.4. // quantity of megabytes
+
+files[33] := KARBYTES_JOURNAL_2023_PART_7_07_september_2023.zip.
+
+files[33].data_size := 16.8. // quantity of megabytes
+
+files[34] := KARBYTES_JOURNAL_2023_PART_8_07_september_2023.zip.
+
+files[34].data_size := 5.7. // quantity of megabytes
+
+files[35] := KARBYTES_JOURNAL_2023_PART_8_07_september_2023.zip.
+
+files[35].data_size := 5.7. // quantity of megabytes
+
+files[36] := KARBYTES_JOURNAL_2023_PART_9_05_september_2023.zip.
+
+files[36].data_size := 67.1. // quantity of megabytes
+
+files[37] := KARBYTES_JOURNAL_2023_PART_10_05_september_2023.zip.
+
+files[37].data_size := 14.2. // quantity of megabytes
+
+files[38] := KARBYTES_JOURNAL_2023_PART_11_05_september_2023.zip.
+
+files[38].data_size := 25.0. // quantity of megabytes
+
+files[39] := KARBYTES_JOURNAL_2023_PART_12_05_september_2023.zip.
+
+files[39].data_size := 89.0. // quantity of megabytes
+
+files[40] := KARBYTES_JOURNAL_2023_PART_13_05_september_2023.zip.
+
+files[40].data_size := 122.9. // quantity of megabytes
+
+files[41] := KARBYTES_JOURNAL_2023_PART_14_05_september_2023.zip.
+
+files[41].data_size := 7.6. // quantity of megabytes
+
+files[42] := KARBYTES_JOURNAL_2023_PART_15_05_september_2023.zip.
+
+files[42].data_size := 3.7. // quantity of megabytes
+
+files[43] := KARBYTES_JOURNAL_2023_PART_16_07_september_2023.zip.
+
+files[43].data_size := 22.6. // quantity of megabytes
+
+files[44] := KARBYTES_JOURNAL_2023_PART_17_07_september_2023.zip.
+
+files[44].data_size := 6.1. // quantity of megabytes
+
+files[45] := KARBYTES_JOURNAL_2023_PART_18_07_september_2023.zip.
+
+files[45].data_size := 12.0. // quantity of megabytes
+
+files[46] := KARBYTES_JOURNAL_2023_PART_19_07_september_2023.zip.
+
+files[46].data_size := 18.8. // quantity of megabytes
+
+files[47] := KARBYTES_JOURNAL_2023_PART_20_07_september_2023.zip.
+
+files[47].data_size := 17.0. // quantity of megabytes
+
+files[48] := KARBYTES_JOURNAL_2023_PART_21_07_september_2023.zip.
+
+files[48].data_size := 4.5. // quantity of megabytes
+
+files[49] := KARBYTES_JOURNAL_2023_PART_22_07_september_2023.zip.
+
+files[49].data_size := 3.3. // quantity of megabytes
+
+files[50] := KARBYTES_JOURNAL_2023_PART_23_07_september_2023.zip.
+
+files[50].data_size := 93.3. // quantity of megabytes
+
+files[51] := KARBYTES_JOURNAL_2023_PART_24_07_september_2023.zip.
+
+files[51].data_size := 54.7. // quantity of megabytes
+
+files[52] := KARBYTES_JOURNAL_2023_PART_25_07_september_2023.zip.
+
+files[52].data_size := 155.5. // quantity of megabytes
+
+files[53] := KARBYTES_JOURNAL_2023_PART_26_07_september_2023.zip.
+
+files[53].data_size := 81.7. // quantity of megabytes
+
+files[54] := KARBYTES_JOURNAL_2023_PART_27_07_september_2023.zip.
+
+files[54].data_size := 55.6. // quantity of megabytes
+
+files[55] := KARBYTES_JOURNAL_2023_PART_28_07_september_2023.zip.
+
+files[55].data_size := 76.6. // quantity of megabytes
+
+files[56] := KARBYTES_JOURNAL_2023_PART_29_07_september_2023.zip.
+
+files[56].data_size := 79.8. // quantity of megabytes
+
+files[57] := KARBYTES_JOURNAL_2023_PART_30_07_september_2023.zip.
+
+files[57].data_size := 65.8. // quantity of megabytes
+
+files[58] := KARBYTES_JOURNAL_2023_PART_31_07_september_2023.zip.
+
+files[58].data_size := 26.9. // quantity of megabytes
+
+files[59] := KARBYTES_JOURNAL_2023_PART_32_07_september_2023.zip.
+
+files[59].data_size := 179.7. // quantity of megabytes
+
+files[60] := KARLINA_OBJECT_12_JUNE_2023_07_september_2023.zip.
+
+files[60].data_size := 19.4 // quantity of megabytes
+
+files[61] := KARLINA_OBJECT_extension_pack_0_07_september_2023.zip.
+
+files[61].data_size := 90.1 // quantity of megabytes
+
+files[62] := KARLINA_OBJECT_extension_pack_1_07_september_2023.zip.
+
+files[62].data_size := 3.8 // quantity of megabytes
+
+files[63] := KARLINA_OBJECT_summer_2023_starter_pack_04_september_2023.zip.
+
+files[63].data_size := 27.5 // quantity of megabytes
+
+files[64] := korrupt_el_mundo_2009_to_2010_karl_beringer_04_september_2023.zip.
+
+files[64].data_size := 31.2 // quantity of megabytes
+
+files[65] := merced_manure_sound_files_karlina_beringer_2008_to_2009_04_september_2023.zip.
+
+files[65].data_size := 33.1 // quantity of megabytes
+
+files[66] := MINDS_2020_SCREENSHOTS_04_september_2023.zip.
+
+files[66].data_size := 27.6 // quantity of megabytes
+
+files[67] := MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0_04_september_2023.zip.
+
+files[67].data_size := 1.9 // quantity of megabytes
+
+files[68] := MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1_04_september_2023.zip.
+
+files[68].data_size := 2.3 // quantity of megabytes
+
+files[69] := MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2_04_september_2023.zip.
+
+files[69].data_size := 1.5 // quantity of megabytes
+
+files[70] := MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3_04_september_2023.zip.
+
+files[70].data_size := 4.3 // quantity of megabytes
+
+files[71] := miscellaneous_data_07_september_2023.zip.
+
+files[71].data_size := 48.1 // quantity of megabytes
+
+files[72] := PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022_07_september_2023.zip.
+
+files[72].data_size := 468.1 // quantity of megabytes
+
+files[73] := PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022_07_september_2023.zip.
+
+files[73].data_size := 15.3 // quantity of megabytes
+
+files[74] := PRIMARY_WEBSITE_COPY_23_OCTOBER_2022_07_september_2023.zip.
+
+files[74].data_size := 14.3 // quantity of megabytes
+
+files[75] := RAW_GITHUB_FILES_MACRO_DIRECTORY_first_67_07_september_2023.zip.
+
+files[75].data_size := 219.1 // quantity of megabytes
+
+
+
