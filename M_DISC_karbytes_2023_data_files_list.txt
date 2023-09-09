@@ -16,24 +16,34 @@ https://karbytesforlifeblog.wordpress.com/M_DISC_karbytes_2023_data_files_list
 ---
 */
 
-M_DISC_DVD_optical_disc_name := karbytes_2023.
+M_DISC_DVD_optical_disc.name := karbytes_2023. // 1 string of 13 plain-text characters
 
-M_DISC_DVD_optical_disc_data_contents := RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.
+M_DISC_DVD_optical_disc_data.data := RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023. // 1 folder containing 76 files
 
-RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_0 := INSTAGRAM_SCREENSHOTS_2022_KARBYTES_04_september_2023.zip.
+files := RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.
 
-RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_1 := INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW_04_september_2023.zip.
+files.length := 76. // quantity of files
 
-RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_2 := karbytes_23AndMe_Ancestry_Data_07_september_2023.zip.
+files.data_size := 3.9. // quantity of gigabytes
 
-RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_3 := karbytes_beginner_bytes_computer_science_2010_to_2015_04_september_2023.zip.
+files[0] := INSTAGRAM_SCREENSHOTS_2022_KARBYTES_04_september_2023.zip.
 
-RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_4 := KARBYTES_BRAND_IMAGES_2021_04_september_2023.zip.
+files[1] := INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW_04_september_2023.zip.
 
-RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_5 := KARBYTES_FOR_LIFE_BLOG_07_september_2023.zip.
+files[2] := karbytes_23AndMe_Ancestry_Data_07_september_2023.zip.
 
-RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_6 := KARBYTES_JOURNAL_2022_PART_0_05_september_2023.zip.
+files[3] := karbytes_beginner_bytes_computer_science_2010_to_2015_04_september_2023.zip.
 
-RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_7 := KARBYTES_JOURNAL_2022_PART_1_05_september_2023.zip.
+files[4] := KARBYTES_BRAND_IMAGES_2021_04_september_2023.zip.
 
-(in progress, more lines are being added to this file)
+files[5] := KARBYTES_FOR_LIFE_BLOG_07_september_2023.zip.
+
+files[6] := KARBYTES_JOURNAL_2022_PART_0_05_september_2023.zip.
+
+files[7] := KARBYTES_JOURNAL_2022_PART_1_05_september_2023.zip.
+
+files[8] := KARBYTES_JOURNAL_2022_PART_2_05_september_2023.zip.
+
+files[9] := KARBYTES_JOURNAL_2022_PART_3_05_september_2023.zip.
+
+(more lines being added...including file size)
