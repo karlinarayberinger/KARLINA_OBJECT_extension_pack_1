@@ -56,8 +56,18 @@ files[6].data_size := 31. // 0 megabytes (empty file) --> WARNING: files[6] was 
 
 files[7] := KARBYTES_JOURNAL_2022_PART_1_05_september_2023.zip.
 
+files[7].data_size := 18.8. // quantity of megabytes
+
 files[8] := KARBYTES_JOURNAL_2022_PART_2_05_september_2023.zip.
 
+files[8].data_size := 7.2. // quantity of megabytes
+
 files[9] := KARBYTES_JOURNAL_2022_PART_3_05_september_2023.zip.
+
+files[9].data_size := 17.9. // quantity of megabytes
+
+files[10] := KARBYTES_JOURNAL_2022_PART_4_05_september_2023.zip.
+
+files[10].data_size := 55.5. // quantity of megabytes
 
 (more lines being added...including file size)
