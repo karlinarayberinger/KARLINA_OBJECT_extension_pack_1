@@ -1,0 +1,39 @@
+/**
+ * file: M_DISC_karbytes_2023_data_files_list.txt
+ * type: plain-text
+ * date: 08_SEPTEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
+
+/*
+---
+
+A corresponding web page on Karbytes For Life Blog dot WordPress dot Com located at the following uniform resource locator displays links to the respective micro directory resource lists (including GitHub repository links where users can download the entire contents of a GitHub repository as a single zip file):
+
+https://karbytesforlifeblog.wordpress.com/M_DISC_karbytes_2023_data_files_list
+
+---
+*/
+
+M_DISC_DVD_optical_disc_name := karbytes_2023.
+
+M_DISC_DVD_optical_disc_data_contents := RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.
+
+RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_0 := INSTAGRAM_SCREENSHOTS_2022_KARBYTES_04_september_2023.zip.
+
+RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_1 := INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW_04_september_2023.zip.
+
+RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_2 := karbytes_23AndMe_Ancestry_Data_07_september_2023.zip.
+
+RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_3 := karbytes_beginner_bytes_computer_science_2010_to_2015_04_september_2023.zip.
+
+RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_4 := KARBYTES_BRAND_IMAGES_2021_04_september_2023.zip.
+
+RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_5 := KARBYTES_FOR_LIFE_BLOG_07_september_2023.zip.
+
+RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_6 := KARBYTES_JOURNAL_2022_PART_0_05_september_2023.zip.
+
+RAW_GITHUB_FILES_MACRO_DIRECTORY_07_september_2023.file_7 := KARBYTES_JOURNAL_2022_PART_1_05_september_2023.zip.
+
+(in progress, more lines are being added to this file)
