@@ -1,7 +1,7 @@
 /**
  * file: M_DISC_karbytes_2023_data_files_list.txt
  * type: plain-text
- * date: 08_SEPTEMBER_2023
+ * date: 09_SEPTEMBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -70,4 +70,74 @@ files[10] := KARBYTES_JOURNAL_2022_PART_4_05_september_2023.zip.
 
 files[10].data_size := 55.5. // quantity of megabytes
 
-(more lines being added...including file size)
+files[11] := KARBYTES_JOURNAL_2022_PART_5_05_september_2023.zip.
+
+files[11].data_size := 23.9. // quantity of megabytes
+
+files[12] := KARBYTES_JOURNAL_2022_PART_6_05_september_2023.zip.
+
+files[12].data_size := 56.2. // quantity of megabytes
+
+files[13] := KARBYTES_JOURNAL_2022_PART_7_05_september_2023.zip.
+
+files[13].data_size := 106.5. // quantity of megabytes
+
+files[14] := KARBYTES_JOURNAL_2022_PART_8_05_september_2023.zip.
+
+files[14].data_size := 69.3. // quantity of megabytes
+
+files[15] := KARBYTES_JOURNAL_2022_PART_9_05_september_2023.zip.
+
+files[15].data_size := 56.0. // quantity of megabytes
+
+files[16] := KARBYTES_JOURNAL_2022_PART_10_05_september_2023.zip.
+
+files[16].data_size := 12.9. // quantity of megabytes
+
+files[17] := KARBYTES_JOURNAL_2022_PART_11_05_september_2023.zip.
+
+files[17].data_size := 48.5. // quantity of megabytes
+
+files[18] := KARBYTES_JOURNAL_2022_PART_12_05_september_2023.zip.
+
+files[18].data_size := 37.4. // quantity of megabytes
+
+files[19] := KARBYTES_JOURNAL_2022_PART_13_05_september_2023.zip.
+
+files[19].data_size := 33.3. // quantity of megabytes
+
+files[20] := KARBYTES_JOURNAL_2022_PART_14_05_september_2023.zip.
+
+files[20].data_size := 35.8. // quantity of megabytes
+
+files[21] := KARBYTES_JOURNAL_2022_PART_15_05_september_2023.zip.
+
+files[21].data_size := 62.0. // quantity of megabytes
+
+files[22] := KARBYTES_JOURNAL_2022_PART_16_05_september_2023.zip.
+
+files[22].data_size := 127.5. // quantity of megabytes
+
+files[23] := KARBYTES_JOURNAL_2022_PART_16B_07_september_2023.zip.
+
+files[23].data_size := 153.2. // quantity of megabytes
+
+files[24] := KARBYTES_JOURNAL_2022_PART_16C_07_september_2023.zip.
+
+files[24].data_size := 198.6. // quantity of megabytes
+
+files[25] := KARBYTES_JOURNAL_2022_PART_16D_07_september_2023.zip.
+
+files[25].data_size := 215.5. // quantity of megabytes
+
+files[26] := KARBYTES_JOURNAL_2023_PART_0_07_september_2023.zip.
+
+files[26].data_size := 41.2. // quantity of megabytes
+
+files[27] := KARBYTES_JOURNAL_2023_PART_1_07_september_2023.zip.
+
+files[27].data_size := 82.8. // quantity of megabytes
+
+files[28] := KARBYTES_JOURNAL_2023_PART_2_07_september_2023.zip.
+
+files[28].data_size := 51.7. // quantity of megabytes
