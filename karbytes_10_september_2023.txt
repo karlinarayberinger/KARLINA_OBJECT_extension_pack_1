@@ -1,0 +1,41 @@
+/**
+ * file: karbytes_10_september_2023.txt
+ * type: plain-text
+ * date: 10_SEPTEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
+
+According to my own personal experience using the WayBack Machine (at Archive dot Org), occasional "random" server errors occur (including especially what appeared to me to be "denial of service attacks" (but what I really think happened is that a robot thought that what I was trying to save was spam)).
+
+The following Uniform Resource Locator (URL) features a screenshot image of the latest error I have been getting when attempting to save a specific subset of some of my journal entry web pages from last year:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_1/main/wayback_machine_url_block_list_error_hacked_09_september_2023.png
+
+What happened at least two times within the past 24 hours was that, when I tried to save any of the following URLs, I got a "sorry" message from the WayBack Machine saying that the URL I submitted was placed on a block list. (I did find a workaround other than sending an email disputing the incident with humans who work for Archive dot Org at info@archive.org. Read on to find out):
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_0
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_1
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_2
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_3
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_4
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_5
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_6
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_7
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_8
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2022_PART_9
+
+What I did was apparently "clear" the URL block by saving other journal entry web pages which were from late this year instead of early last year such as the following:
+
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARBYTES_JOURNAL_2023_PART_32/
+
+Then I tried saving the early 2022 journal entry web pages which were apparently blocked from being saved by the WayBack Machine (and I was happy to discover that each of those web pages was able to be saved each time I implemented that hacky trick).
