@@ -30,6 +30,8 @@ I think that future content which karbytes publishes to its blog (i.e. GitHub an
 
 karbytes tentatively plans on creating another set of M_DISCs approximately one year from now of the content which would be considered to be the sequel to karbytes_2023. karbytes plans on naming next year's M_DISCs karbytes_2024.
 
+* * *
+
 Right now, there is only approximately 28 megabytes worth of data to back up to the hypothetical M_DISC named karbytes_2024 (and an M_DISC has a data storage capacity of approximately 4 gigabytes). 
 
 karbytes_2023 contains 76 zip files (and a total of 3.9 gigabytes of data). If what I amassed for karbytes_2024 is smaller than 2 gigabytes by the time I am ready to burn the karbytes_2024 discs, then I will just add karbytes_2023 to karbytes_2024 (and include the missing fie which did not get copied correctly onto the karbytes_2023 discs: KARBYTES_JOURNAL_2022_PART_0_05_september_2023.zip)
