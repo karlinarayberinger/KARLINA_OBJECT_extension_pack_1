@@ -8,4 +8,4 @@
 
 On 05_SEPTEMBER_2023, karbytes updated the web pages named AGENCY and KNOWLEDGE of the website named Karlina Object dot WordPress dot Com (and updated source code for those web pages is located in the karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_0). 
 
-On 14_SEPTEMBER_2023, karbytes updated the web page named SOUND_TRACK_LOOP_COUNTER of the website named Karlina Object dot WordPress dot Com (and updated source code for that web page is located in the karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_1). 
+On 14_SEPTEMBER_2023, karbytes updated the web page named SOUND_TRACK_LOOP_COUNTER of the website named Karlina Object dot WordPress dot Com (and updated source code for that web page and for the JavaScript application file named sound_track_looper.js is located in the karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_1). 
