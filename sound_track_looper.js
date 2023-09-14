@@ -2,7 +2,7 @@
  * file: sound_track_looper.js
  * type: JavaScript
  * author: karbytes
- * date: 10_SEPTEMBER_2023
+ * date: 14_SEPTEMBER_2023
  * license: PUBLIC_DOMAIN
  */
 
@@ -27,23 +27,12 @@ function generate_time_stamp() {
  */
 function get_menu_options() {
 	let HTML_string = ('<' + 'option value="frogs_croaking_in_castro_valley_california_21_april_2022.mp3" selected' + '>' + 'frogs_croaking_in_castro_valley_california_21_april_2022.mp3' + '<' + '/' + 'option' + '>');
+	HTML_string += ('<' + 'option value="coyote_vocalizations_01_july_2023.mp3"' + '>' + 'coyote_vocalizations_01_july_2023.mp3' + '<' + '/' + 'option' + '>');
 	HTML_string += ('<' + 'option value="karbytes_drums_castro_valley_california_12_december_2022.mp3"' + '>' + 'karbytes_drums_castro_valley_california_12_december_2022.mp3' + '<' + '/' + 'option' + '>');
+	HTML_string += ('<' + 'option value="drums_karbytes_10_september_2023_part_0.mp3"' + '>' + 'drums_karbytes_10_september_2023_part_0.mp3' + '<' + '/' + 'option' + '>');
 	HTML_string += ('<' + 'option value="karbytes_guitar_castro_valley_california_12_december_2022.mp3"' + '>' + 'karbytes_guitar_castro_valley_california_12_december_2022.mp3' + '<' + '/' + 'option' + '>');
 	HTML_string += ('<' + 'option value="karbytes_guitar_13_may_2023.mp3"' + '>' + 'karbytes_guitar_13_may_2023.mp3' + '<' + '/' + 'option' + '>');
-	HTML_string += ('<' + 'option value="pig_gorl_29_may_2023.mp3"' + '>' + 'pig_gorl_29_may_2023.mp3' + '<' + '/' + 'option' + '>');
-	HTML_string += ('<' + 'option value="karbytes_at_warm_springs_bart_station_17_february_2023.mp3"' + '>' + 'karbytes_at_warm_springs_bart_station_17_february_2023.mp3' + '<' + '/' + 'option' + '>');
 	HTML_string += ('<' + 'option value="karbytes_guitar_07_june_2023.mp3"' + '>' + 'karbytes_guitar_07_june_2023.mp3' + '<' + '/' + 'option' + '>');
-	HTML_string += ('<' + 'option value="pig_boi_24_june_2023.mp3"' + '>' + 'pig_boi_24_june_2023.mp3' + '<' + '/' + 'option' + '>');
-	HTML_string += ('<' + 'option value="karbytes_guitar_25_june_2023.mp3"' + '>' + 'karbytes_guitar_25_june_2023.mp3' + '<' + '/' + 'option' + '>');
-	HTML_string += ('<' + 'option value="pig_gorl_noises_part_0_06_july_2023.mp3"' + '>' + 'pig_gorl_noises_part_0_06_july_2023.mp3' + '<' + '/' + 'option' + '>');
-	HTML_string += ('<' + 'option value="pig_gorl_noises_part_1_06_july_2023.mp3"' + '>' + 'pig_gorl_noises_part_1_06_july_2023.mp3' + '<' + '/' + 'option' + '>');
-	HTML_string += ('<' + 'option value="pig_gorl_noises_part_2_06_july_2023.mp3"' + '>' + 'pig_gorl_noises_part_2_06_july_2023.mp3' + '<' + '/' + 'option' + '>');
-	HTML_string += ('<' + 'option value="coyote_vocalizations_01_july_2023.mp3"' + '>' + 'coyote_vocalizations_01_july_2023.mp3' + '<' + '/' + 'option' + '>');
-	HTML_string += ('<' + 'option value="pig_gorl_depiction_07_december_2022.mp3"' + '>' + 'pig_gorl_depiction_07_december_2022.mp3' + '<' + '/' + 'option' + '>');
-	HTML_string += ('<' + 'option value="pig_gorl_depiction_02_september_2023.mp3"' + '>' + 'pig_gorl_depiction_02_september_2023.mp3' + '<' + '/' + 'option' + '>');
-	HTML_string += ('<' + 'option value="pig_gorl_depiction_31_august_2023.mp3"' + '>' + 'pig_gorl_depiction_31_august_2023.mp3' + '<' + '/' + 'option' + '>');
-	HTML_string += ('<' + 'option value="monkey_national_anthem_16_february_2023.mp3"' + '>' + 'monkey_national_anthem_16_february_2023.mp3' + '<' + '/' + 'option' + '>');
-	HTML_string += ('<' + 'option value="drums_karbytes_10_september_2023_part_0.mp3"' + '>' + 'drums_karbytes_10_september_2023_part_0.mp3' + '<' + '/' + 'option' + '>');
 	return HTML_string;
 }
 
