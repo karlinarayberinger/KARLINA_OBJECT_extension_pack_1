@@ -1,3 +1,11 @@
+/**
+ * file: karbytes_18_september_2023.txt
+ * type: plain-text
+ * date: 18_SEPTEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
+
 S: "Do some humans think with more data throughput (i.e. bytes per second) than do other humans?"
 
 T: "I would assume yes (but I do not yet know of a feasible way to prove that some humans think in terms of more data throughput than others."
