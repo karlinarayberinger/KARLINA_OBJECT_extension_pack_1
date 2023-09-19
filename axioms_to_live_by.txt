@@ -1,0 +1,15 @@
+/**
+ * file: axioms_to_live_by.txt
+ * type: plain-text
+ * date: 19_SEPTEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
+
+Axioms to live by:
+
+Every person is always doing the only thing it can in any given moment in time.
+
+Every decision which every person makes is a function of the entire universe at the time that decision occurs.
+
+Agency (i.e. free will) is an illusion. Therefore, what appears to be a person playing a video game is actually a person watching a movie of a person (itself) playing a videogame.
