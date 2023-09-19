@@ -1,7 +1,7 @@
 /** 
   * file: karbytes_for_life_blog_updates.txt
   * type: plain-text 
-  * date: 18_SEPTEMBER_2023 
+  * date: 19_SEPTEMBER_2023 
   * author: karbytes 
   * license: PUBLIC_DOMAIN 
   */
@@ -101,3 +101,5 @@ karbytes created (and apparently finalized) the unlisted web page named karbytes
 (karbytes shared that newly added web page to karbytes' social media accounts on the social media websites named Twitter dot Com, Minds dot Com, LinkedIn dot Com, and Patreon dot Com at approximately 12:34PM on 18_SEPTEMBER_2023).
 
 karbytes updated the web page named raw_github_files_directory_KARLINA_OBJECT_extension_pack_1 on the website named Karbytes For Life Blog dot WordPress dot Com at approximately 12:34PM Pacific Standard Time on 18_SEPTEMBER_2023.
+
+(karbytes deleted the social media post linking to the web page named karbytes_18_september_2023 from karbytes' social media accounts on the social media websites named Twitter dot Com, Minds dot Com, LinkedIn dot Com, and Patreon dot Com at approximately 12:34PM on 19_SEPTEMBER_2023. Also, the source code file for that web page has been removed from this repository).
