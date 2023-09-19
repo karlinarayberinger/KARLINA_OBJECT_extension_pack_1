@@ -1,0 +1,19 @@
+/**
+ * file: karbytes_19_september_2023.txt
+ * type: plain-text
+ * date: 19_SEPTEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
+
+Today I set my old blogging website named Karbytes For Life dot WordPress dot Com (which is not the same website as my newer and current blogging website named Karbytes For Life Blog dot WordPress dot Com) to private after having left that website public within four hours of creating that website (which means that I still have full access to the content of that old blog from the position of visitor to that website and from the position of an administrator of that website). 
+
+I understand and am content with the fact that content from my aforementioned old blog is likely still publicly accessible on the WayBack Machine. That is fine with me. People are free to search the WayBack Machine database to view copied older versions of web pages (including for web pages which might no longer exist). I just did not want people to confuse my current blogging website with my old blogging website (especially in the event of those people entering the wrong web page address (which is off by a word)).
+
+* * *
+
+Each one of the following two web page addresses leads to a screenshot image which pertains to the subject matter of today's journal entry:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_1/main/old_blog_set_to_private_19_september_2023.png
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_1/main/old_blog_new_public_interface_19_september_2023.png
