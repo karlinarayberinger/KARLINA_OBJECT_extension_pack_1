@@ -26,6 +26,6 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 (Note that in the screenshot image of the conversation I was having with chatGPT, I accidentally cut off the remainder of that conversation while making the screenshot. I did not save the conversation. Hence, this is all I have as empirical evidence that the conversation ever existed. I was inspired to initiate that conversation when I saw a stray ant crawl across my laptop and phone screen).
 
-// wall; open source all;
+// wall; open_source all;
 
 
