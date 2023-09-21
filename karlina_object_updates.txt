@@ -1,7 +1,7 @@
 /**
  * file: karlina_object_updates.txt
  * type: plain-text
- * date: 17_SEPTEMBER_2023
+ * date: 21_SEPTEMBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -11,3 +11,6 @@ On 05_SEPTEMBER_2023, karbytes updated the web pages named AGENCY and KNOWLEDGE 
 On 14_SEPTEMBER_2023, karbytes updated the web page named SOUND_TRACK_LOOP_COUNTER of the website named Karlina Object dot WordPress dot Com (and updated source code for that web page and for the JavaScript application file named sound_track_looper.js is located in the karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_1). 
 
 On 17_SEPTEMBER_2023, karbytes updated the web page named SOUND_TRACK_LOOP_COUNTER of the website named Karlina Object dot WordPress dot Com (by adding an MP3 file which was missing from the list of sound track options). 
+
+On 21_SEPTEMBER_2023, karbytes updated the web page named KNOWLEDGE of the website named Karlina Object dot WordPress dot Com (and updated source code for that web page is located in the karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_1). 
+
