@@ -14,3 +14,5 @@ On 17_SEPTEMBER_2023, karbytes updated the web page named SOUND_TRACK_LOOP_COUNT
 
 On 21_SEPTEMBER_2023, karbytes updated the web page named KNOWLEDGE of the website named Karlina Object dot WordPress dot Com (and updated source code for that web page is located in the karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_1). 
 
+On 21_SEPTEMBER_2023, karbytes created the web page named METAPHYSICS of the website named Karlina Object dot WordPress dot Com (and source code for that web page is located in the karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_1). 
+
