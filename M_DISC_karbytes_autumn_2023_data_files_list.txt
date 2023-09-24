@@ -24,22 +24,26 @@ M_DISC_DVD_optical_disc.data := karbytes_autumn_2023_24_SEPTEMBER_2023. // 1 fol
 
 files := karbytes_autumn_2023_24_SEPTEMBER_2023.
 
-files.array_length := 4. // quantity of files
+files.array_length := 5. // quantity of files
 
-files.data_size := undefined. // quantity of megabytes
+files.data_size := 168.7. // quantity of megabytes
 
-files[0] := raw_github_files_directory_KARLINA_OBJECT_autumn_2023_starter_pack_DAY_MONTH_2023.zip.
+files[0] := raw_github_files_directory_KARLINA_OBJECT_autumn_2023_starter_pack_24_SEPTEMBER_2023.zip.
 
 files[0].data_size := 87. // quantity of megabytes
 
-files[1] := raw_github_files_directory_KARLINA_OBJECT_extension_pack_1_DAY_MONTH_2023.zip.
+files[1] := raw_github_files_directory_KARLINA_OBJECT_extension_pack_1_24_SEPTEMBER_2023.zip.
 
-files[1].data_size := undefined. // quantity of megabytes
+files[1].data_size := 49.5. // quantity of megabytes
 
-files[2] := easter_eggs_karbytes_website_content_24_SEPTEMBER_2023.zip. // private repository
+files[2] := https://github.com/karlinarayberinger/KARBYTES_FOR_LIFE_BLOG_24_SEPTEMBER_2023.zip.
 
-files[2].data_size := 19.9. // quantity of megabytes
+files[2].data_size := 1.2. // quantity of megabytes
 
-files[3] := KARBYTES_JOURNAL_2022_PART_0_1_24_SEPTEMBER_2023.zip.
+files[3] := easter_eggs_karbytes_website_content_24_SEPTEMBER_2023.zip. // private repository
 
-files[3].data_size := 31. // quantity of megabytes (to correct for missing contents of zip file in previous M_DISC backup)
+files[3].data_size := 19.9. // quantity of megabytes
+
+files[4] := KARBYTES_JOURNAL_2022_PART_0_1_24_SEPTEMBER_2023.zip.
+
+files[4].data_size := 31. // quantity of megabytes (to correct for missing contents of zip file in previous M_DISC backup)
