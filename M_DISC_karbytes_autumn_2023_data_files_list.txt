@@ -1,0 +1,45 @@
+/**
+ * file: M_DISC_karbytes_autumn_2023_data_files_list.txt
+ * type: plain-text
+ * date: 24_SEPTEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
+
+/*
+---
+
+A corresponding web page on Karbytes For Life Blog dot WordPress dot Com located at the following uniform resource locator displays links to the respective micro directory resource lists (including GitHub repository links where users can download the entire contents of a GitHub repository as a single zip file):
+
+https://karbytesforlifeblog.wordpress.com/M_DISC_karbytes_autumn_2023_data_files_list
+
+(Also note that, unless specified with a comment (denoted to the right of the karbytes pseudocode command by "//") , each file which was copied to the M_DISC named karbytes_autumn_2023 was copied from an archived (i.e. read-only) karbytes-created GitHub repository on 24_SEPTEMBER_2023).
+
+---
+*/
+
+M_DISC_DVD_optical_disc.name := karbytes_autumn_2023. // 1 string of 20 plain-text characters
+
+M_DISC_DVD_optical_disc.data := karbytes_autumn_2023_24_SEPTEMBER_2023. // 1 folder containing undefined files
+
+files := karbytes_autumn_2023_24_SEPTEMBER_2023.
+
+files.array_length := 4. // quantity of files
+
+files.data_size := undefined. // quantity of megabytes
+
+files[0] := raw_github_files_directory_KARLINA_OBJECT_autumn_2023_starter_pack_DAY_MONTH_2023.zip.
+
+files[0].data_size := 87. // quantity of megabytes
+
+files[1] := raw_github_files_directory_KARLINA_OBJECT_extension_pack_1_DAY_MONTH_2023.zip.
+
+files[1].data_size := undefined. // quantity of megabytes
+
+files[2] := easter_eggs_karbytes_website_content_24_SEPTEMBER_2023.zip. // private repository
+
+files[2].data_size := 19.9. // quantity of megabytes
+
+files[3] := KARBYTES_JOURNAL_2022_PART_0_1_24_SEPTEMBER_2023.zip.
+
+files[3].data_size := 31. // quantity of megabytes (to correct for missing contents of zip file in previous M_DISC backup)
