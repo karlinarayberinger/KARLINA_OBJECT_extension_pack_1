@@ -38,7 +38,6 @@ files[1].data_size := 49.5. // quantity of megabytes
 
 files[2] := https://github.com/karlinarayberinger/KARBYTES_FOR_LIFE_BLOG_24_SEPTEMBER_2023.zip. // repository is still being updated after being copied to M_DISC karbytes_autumn_2023
 
-
 files[2].data_size := 1.2. // quantity of megabytes
 
 files[3] := easter_eggs_karbytes_website_content_24_SEPTEMBER_2023.zip. // private repository
@@ -48,4 +47,3 @@ files[3].data_size := 19.9. // quantity of megabytes
 files[4] := KARBYTES_JOURNAL_2022_PART_0_1_24_SEPTEMBER_2023.zip.
 
 files[4].data_size := 31. // quantity of megabytes (to correct for missing contents of zip file in previous M_DISC backup)
-
